@@ -6,7 +6,7 @@
 
 ## 코드
 
-- 조성원 [Solved](https://github.com/ji3427/300solves/blob/jswww/7662.cpp)
+- 조성원 [Solved](https://github.com/ji3427/300solves/blob/jswww/WEEK1/7662.cpp)
 - 지화영 [Solved](https://github.com/ji3427/300solves/blob/ji3427/week1/baekjoon_7662.cpp)
 
 ## 풀이
