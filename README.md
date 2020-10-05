@@ -11,3 +11,11 @@
 - ### Not solved
 
   - [BOJ 1043 거짓말](https://www.acmicpc.net/problem/1043)
+
+## WEEK2
+
+- ### Solved
+
+  - [BOJ 1016 제곱 ㄴㄴ 수 풀이](https://github.com/ji3427/300solves/blob/master/week2/Week2_day1.md)
+
+- ### Not solved
