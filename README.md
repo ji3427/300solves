@@ -18,4 +18,8 @@
 
   - [BOJ 1016 제곱 ㄴㄴ 수 풀이](https://github.com/ji3427/300solves/blob/master/week2/Week2_day1.md)
 
-- ### Not solved
+## WEEK3
+
+- ### Solved
+
+  - [BOJ 11404 플로이드 풀이](https://github.com/ji3427/300solves/blob/master/week3/Week3_day1.md)
