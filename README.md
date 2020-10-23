@@ -29,3 +29,4 @@
 - ### Solved
 
   - [BOJ 1753 최단경로 풀이](https://github.com/ji3427/300solves/blob/master/week4/Week4_day1.md)
+  - [BOJ 1916 최소비용 구하기 풀이](https://github.com/ji3427/300solves/blob/master/week4/Week4_day2.md)
