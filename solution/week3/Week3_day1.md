@@ -6,8 +6,8 @@
 
 ## 코드
 
-- 조성원 [Solved](https://github.com/ji3427/300solves/blob/jswww/WEEK3/11404.cpp)
-- 지화영 [Solved](https://github.com/ji3427/300solves/blob/ji3427/week3/baekjoon_11404.cpp)
+- 조성원 [Solved](https://github.com/ji3427/300solves/blob/master/JSWww/WEEK3/11404.cpp)
+- 지화영 [Solved](https://github.com/ji3427/300solves/blob/master/ji3427/week3/baekjoon_11404.cpp)
 
 ## 풀이
 

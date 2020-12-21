@@ -6,8 +6,8 @@
 
 ## 코드
 
-- 조성원 [Solved](https://github.com/ji3427/300solves/blob/jswww/WEEK1/9019.cpp)
-- 지화영 [Solved](https://github.com/ji3427/300solves/blob/ji3427/week1/baekjoon_9019.cpp)
+- 조성원 [Solved](https://github.com/ji3427/300solves/blob/master/JSWww/WEEK1/9019.cpp)
+- 지화영 [Solved](https://github.com/ji3427/300solves/blob/master/ji3427/week1/baekjoon_9019.cpp)
 
 ## 풀이
 
