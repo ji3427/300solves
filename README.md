@@ -39,4 +39,10 @@
   - [BOJ 9663 N-Queen 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day1.md#boj-9663-n-queen)
   - [BOJ 12851 숨바꼭질2 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day2.md)
   - [BOJ 12865 평범한 배낭 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day2.md#boj-12865-%ED%8F%89%EB%B2%94%ED%95%9C-%EB%B0%B0%EB%82%AD)
+  - [programmers] 짝지어 제거하기(https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md)
+  - [programmers] 예상 대진표(https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md#programmers-%EB%8B%A8%EC%96%B4-%ED%8D%BC%EC%A6%90)
+ 
+- ### Not solved
+
+  - [programmers] 단어 퍼즐(https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md#programmers-%EB%8B%A8%EC%96%B4-%ED%8D%BC%EC%A6%90)
   
