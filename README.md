@@ -41,8 +41,12 @@
   - [BOJ 12865 평범한 배낭 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day2.md#boj-12865-%ED%8F%89%EB%B2%94%ED%95%9C-%EB%B0%B0%EB%82%AD)
   - [programmers 짝지어 제거하기 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md)
   - [programmers 예상 대진표 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md#programmers-%EC%98%88%EC%83%81-%EB%8C%80%EC%A7%84%ED%91%9C)
- 
-- ### Not solved
-
-  - [programmers 단어 퍼즐](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md#programmers-%EB%8B%A8%EC%96%B4-%ED%8D%BC%EC%A6%90)
+   - [programmers 단어 퍼즐 풀이](https://github.com/ji3427/300solves/blob/master/solution/week5/Week5_day3.md#programmers-%EB%8B%A8%EC%96%B4-%ED%8D%BC%EC%A6%90)
   
+## WEEK6
+
+- ### Solved
+
+  - [BOJ 13549 숨바꼭질 3 풀이](https://github.com/ji3427/300solves/blob/master/solution/week6/week6_day1.md)
+  - [BOJ 17070 파이프 옮기기 1 풀이](https://github.com/ji3427/300solves/blob/master/solution/week6/week6_day1.md#boj-17070-%ED%8C%8C%EC%9D%B4%ED%94%84-%EC%98%AE%EA%B8%B0%EA%B8%B0-1)
+
