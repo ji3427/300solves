@@ -41,11 +41,23 @@
 
 ## 코드
 
-- 조성원 Not solved
+- 조성원 [Solved](https://github.com/ji3427/300solves/blob/master/JSWww/WEEK5/2017tipstown_3.cpp)
 - 지화영 Not solved
 
+## 풀이
+
+- DP로 풀이법
+    - dp 배열을 INF로 초기화한다.
+    - 주어진 문자열 t에서 인덱스 0부터 substring을 구한다.
+        - (ex. t = apple, substring = a, ap, app, appl, apple)
+    - 문자열 배열 strs가 t의 substring의 끝 문자열인지 확인한다.
+        - (ex. t의 substring = app, strs = [app, ap, p, l, e, ple, pp]  일 경우 만족하는 strs = [app, p, pp])
+    -  만약 strs가 substring과 일치한다면 dp[index] = 1로 초기화 시켜주고 그렇지 않다면 dp[index] = min(dp[index], dp[index-str.size()] + 1)로 값을 초기화 시킨다.
+    -  dp 끝부분이 INF라면 -1, 아니라면 끝부분의 값을 반환한다.
+- BFS 풀이법
+    - 주어진 문자열 t에서 문자열 배열 strs의 원소 str을 찾았을 때 노드 안에 그 str의 시작부분과 끝부분의 인덱스를 담는다. 그리고 bfs를 통해 최단 경로를 구한다. 길이 없다면 -1을 반환한다. 
 ## 여담
 
 - dfs로 풀었는데 시간초과 발생 (ji3427)
 - bfs로 풀었는데 시간초과 발생 (jswww)
-- 답은 DP였는데 DP같지 않는 문제 형태여서 DP는 고려도 안함 
+- 답은 DP였는데 DP같지 않는 문제 형태여서 DP는 고려도 안함
