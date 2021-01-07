@@ -49,4 +49,11 @@
 
   - [BOJ 13549 숨바꼭질 3 풀이](https://github.com/ji3427/300solves/blob/master/solution/week6/week6_day1.md)
   - [BOJ 17070 파이프 옮기기 1 풀이](https://github.com/ji3427/300solves/blob/master/solution/week6/week6_day1.md#boj-17070-%ED%8C%8C%EC%9D%B4%ED%94%84-%EC%98%AE%EA%B8%B0%EA%B8%B0-1)
+  
+## WEEK7
+
+- ### Solved
+
+  - [BOJ 17144 미세먼지 안녕! 풀이](https://github.com/ji3427/300solves/blob/master/solution/week7/Week7_day1.md)
+  - [BOJ 1043 거짓말 풀이](https://github.com/ji3427/300solves/blob/master/solution/week7/Week7_day1.md#boj-1043-%EA%B1%B0%EC%A7%93%EB%A7%90)
 
