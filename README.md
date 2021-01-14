@@ -57,3 +57,9 @@
   - [BOJ 17144 미세먼지 안녕! 풀이](https://github.com/ji3427/300solves/blob/master/solution/week7/Week7_day1.md)
   - [BOJ 1043 거짓말 풀이](https://github.com/ji3427/300solves/blob/master/solution/week7/Week7_day1.md#boj-1043-%EA%B1%B0%EC%A7%93%EB%A7%90)
 
+## WEEK8
+
+- ### Solved
+
+  - [BOJ 1504 특정한 최단 경로 풀이](https://github.com/ji3427/300solves/blob/master/solution/week8/Week8_day1.md)
+  - [BOJ 1865 웜홀 풀이](https://github.com/ji3427/300solves/blob/master/solution/week8/Week8_day1.md#boj-1865-%EC%9B%9C%ED%99%80)
