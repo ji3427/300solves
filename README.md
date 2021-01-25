@@ -63,3 +63,10 @@
 
   - [BOJ 1504 특정한 최단 경로 풀이](https://github.com/ji3427/300solves/blob/master/solution/week8/Week8_day1.md)
   - [BOJ 1865 웜홀 풀이](https://github.com/ji3427/300solves/blob/master/solution/week8/Week8_day1.md#boj-1865-%EC%9B%9C%ED%99%80)
+
+## WEEK9
+
+- ### Solved
+
+  - [BOJ 1918 후위 표기식 풀이](https://github.com/ji3427/300solves/blob/master/solution/week9/Week9_day1.md)
+  
