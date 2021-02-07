@@ -69,4 +69,6 @@
 - ### Solved
 
   - [BOJ 1918 후위 표기식 풀이](https://github.com/ji3427/300solves/blob/master/solution/week9/Week9_day1.md)
-  
+  - [BOJ 9465 스티커 풀이](https://github.com/ji3427/300solves/blob/master/solution/week9/Week9_day2.md)
+  - [BOJ 1918 트리의 순회 풀이](https://github.com/ji3427/300solves/blob/master/solution/week9/Week9_day2.md#boj-2263-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%88%9C%ED%9A%8C)
+
